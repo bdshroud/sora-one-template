@@ -7,8 +7,3 @@ Premium Extended Version
     Download
   </button>
 </a>
-<a href="your-download-link-here" download class="download-button" style="text-decoration: none;">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-    Download
-  </button>
-</a>
